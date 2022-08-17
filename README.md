@@ -15,3 +15,5 @@
   - Basic simulations
   - Pandas and basic data cleaning
 - English (B2), Spanish (native) and Catalan (native)
+
+ [![LinkedIn](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw)(https://www.linkedin.com/in/carlos-herrera-v%C3%A1zquez-6218911b3/)]
