@@ -1,5 +1,3 @@
-# Carlos Herrera
-
 - Barcelona, ES
 
 ### Work:
