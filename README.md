@@ -16,4 +16,4 @@
   - Pandas and basic data cleaning
 - English (B2), Spanish (native) and Catalan (native)
 
- [LinkedIn](https://www.linkedin.com/in/carlos-herrera-v%C3%A1zquez-6218911b3/)
+ [LinkedIn](https://www.linkedin.com/in/carlos-herrera-v%C3%A1zquez-6218911b3/)   [Kaggle](https://www.kaggle.com/carlosherreravzquez)
