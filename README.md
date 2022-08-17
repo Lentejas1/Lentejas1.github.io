@@ -3,7 +3,7 @@
 ### Work:
 
 - [Numerical methods' tutorials](https://www.kaggle.com/code/carlosherreravzquez/calculating-pi-with-rice-mc-tutorial)
-- [Streamlit webapp](https://lentejas1-physics-with-a-snake-main-63ss0i.streamlitapp.com/) where you can simulate some physical experiments and plot linear regressions.
+- [Streamlit webapp](https://lentejas1-physics-with-a-snake-main-63ss0i.streamlitapp.com/) where you can simulate some physical experiments and plot linear regressions
 
 ### Studies:
 
