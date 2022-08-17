@@ -1,4 +1,5 @@
-:round_pushpin: Barcelona, ES
+# Carlos Herrera
+:pushpin: Barcelona, ES
 ### Work:
 
 - [Numerical methods' tutorials](https://www.kaggle.com/code/carlosherreravzquez/calculating-pi-with-rice-mc-tutorial)
