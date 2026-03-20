@@ -1,8 +1,17 @@
 remote_theme: jekyll/minima
+title: "Carlos Herrera Vázquez"
+description: "PhD Researcher @ CITCEA-UPC"
+
+# Configuración del tema
+minima:
+  skin: dark
+
+# Esto arregla el renderizado de LaTeX
+kramdown:
+  math_engine: mathjax
+
+# Plugins necesarios
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-
-minima:
-  skin: dark
