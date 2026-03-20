@@ -12,10 +12,11 @@ title: Home
 ### 🔬 Current Research
 > Mi enfoque actual se centra en la intersección de las matemáticas computacionales y los sistemas eléctricos de potencia.
 
-$$\mathcal{X} \approx \sum_{r=1}^R a_r \circ b_r \circ c_r$$
+$$\mathcal{X} \approx \sum_{r=1}^R a_r \otimes b_r \otimes c_r$$
 
 * **PhD Thesis:** Tensor decomposition and computational mathematics applied to power-electronic grid systems.
-* **Focus Areas:** * `Tensor Decompositions`
+* **Focus Areas:** *
+    * `Tensor Decompositions`
     * `Numerical Methods`
     * `Grid Stability`
 
