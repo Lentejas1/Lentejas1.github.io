@@ -6,7 +6,7 @@ title: Home
 # 🌌 Carlos Herrera Vázquez
 **PhD Researcher @ CITCEA-UPC** | Computational Mathematics & Power Electronics
 
-`:round_pushpin: Barcelona, ES`
+:round_pushpin: Barcelona, ES
 
 ---
 
