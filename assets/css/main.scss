@@ -1,8 +1,9 @@
 ---
 ---
-@import "minima";
+// En lugar de @import "minima", usa esto para forzar la carga del tema remoto:
+@import "minima/skins/dark"; 
 
-// Tu toque elegante aquí
+// Tu personalización debajo
 body {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter', -apple-system, sans-serif !important;
 }
