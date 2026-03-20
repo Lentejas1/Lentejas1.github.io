@@ -1,22 +1,8 @@
 ---
 ---
-@import "{{ site.theme }}";
+@import "minima";
 
-// Tipografía más elegante (Inter)
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;800&display=swap');
-
+// Tu toque elegante aquí
 body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
-  letter-spacing: -0.01em;
-}
-
-h1, h2, h3 {
-  font-weight: 800 !important;
-  letter-spacing: -0.03em;
-}
-
-// Estilo para la fórmula matemática
-.MathJax {
-  font-size: 1.2em;
-  margin: 20px 0;
+  font-family: 'Inter', sans-serif;
 }
