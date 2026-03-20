@@ -1,14 +1,8 @@
-title: "Carlos Herrera Vázquez"
-description: "PhD Researcher in Applied Mathematics"
 remote_theme: jekyll/minima
-
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
 
-# Esto es vital para que reconozca el skin dark
 minima:
   skin: dark
-
-# Ignorar archivos que no deben compilarse
-exclude: [Gemfile, Gemfile.lock, vendor]
