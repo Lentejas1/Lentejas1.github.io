@@ -1,23 +1,14 @@
 title: "Carlos Herrera Vázquez"
-tagline: "PhD Researcher in Applied Mathematics"
-description: "Tensor decomposition & computational mathematics applied to power systems."
+description: "PhD Researcher in Applied Mathematics"
 remote_theme: jekyll/minima
 
-# Plugins necesarios para SEO y Sitemap
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-feed
 
-# Configuración del diseño
+# Esto es vital para que reconozca el skin dark
 minima:
-  skin: dark # Esto activa el modo oscuro elegante
-  social_links:
-    - { platform: github, user: Lentejas1 }
-    # Añade aquí tus otros links si quieres:
-    # - { platform: linkedin, user: tu_usuario }
+  skin: dark
 
-# URLs limpias (sin .html)
-permalink: /:title/
-markdown: kramdown
-highlighter: rouge
+# Ignorar archivos que no deben compilarse
+exclude: [Gemfile, Gemfile.lock, vendor]
