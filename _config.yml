@@ -1,1 +1,42 @@
-theme: jekyll-theme-cayman
+# --- Información del Sitio ---
+title: "Carlos Herrera Vázquez"
+tagline: "PhD student in Applied Maths at CITCEA-UPC"
+description: "Placeholder."
+url: "https://Lentejas1.github.io"
+baseurl: ""
+
+# --- Configuración del Autor ---
+author:
+  name: "Carlos Herrera Vázquez"
+  email: "carlos.herrera.vazquez@upc.edu"
+  github_username:  Lentejas1
+  linkedin_username: cherreravazquez
+
+# --- Estética y Tema ---
+# Usando 'Minima' como base, pero personalizado
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Configuración del diseño
+minima:
+  skin: dark # Cambia a 'light' si prefieres lo clásico
+  social_links:
+    - { platform: github, user: Lentejas1 }
+    - { platform: linkedin, user: cherreravazquez }
+
+# --- Estructura de Enlaces ---
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
+
+# --- Exclusiones ---
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - .sass-cache/
+  - .jekyll-cache/
