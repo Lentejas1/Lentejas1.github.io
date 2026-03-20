@@ -1,3 +1,8 @@
+---
+layout: home
+title: Home
+---
+
 # 🌌 Carlos Herrera Vázquez
 **PhD Researcher @ CITCEA-UPC** | Computational Mathematics & Power Electronics
 
@@ -24,21 +29,19 @@ $$\mathcal{X} \approx \sum_{r=1}^R a_r \circ b_r \circ c_r$$
 | **Deep Learning** | CNN (Convolutional), GNN (Graph Neural Networks) |
 | **Analysis** | Data Mining, Plotting, Monte Carlo Simulations |
 | **Mathematics** | Advanced Calculus, Linear Algebra, Tensor Algebra |
-| **Physics** | Experimental High-Energy Physics, Power Systems |
 
 ---
 
 ### 💼 Major Experience
-* **MSc Thesis (IFAE - ATLAS Group / CERN):** Análisis de datos en física de partículas de alta energía.
-* **BSc Thesis (IFAE - Neutrino Group / T2K):** Colaboración internacional en investigación de neutrinos.
-* **Data Scientist Intern (Banc Sabadell - Zurich):** 6 meses optimizando flujos de datos y modelos predictivos en entorno corporativo.
+* **MSc Thesis (IFAE - ATLAS Group / CERN):** Análisis de datos en física de partículas.
+* **BSc Thesis (IFAE - Neutrino Group / T2K):** Investigación de neutrinos.
+* **Data Scientist Intern (Banc Sabadell - Zurich):** 6 meses en entorno corporativo.
 
 ---
 
-### 🚀 Projects & Work
-* **[Numerical Methods' Tutorials](https://www.kaggle.com/code/carlosherreravzquez/calculating-pi-with-rice-mc-tutorial)** – Tutorial de Monte Carlo para el cálculo de $\pi$.
-* **[VGC Records Webapp](https://lentejas1-vgc-records-main-x631ba.streamlit.app/)** – Streamlit app para trackeo de torneos Pokémon.
-    * *Tech:* Python, BeautifulSoup4, Urllib.
+### 🚀 Projects
+* **[Numerical Methods' Tutorials](https://www.kaggle.com/code/carlosherreravzquez/calculating-pi-with-rice-mc-tutorial)** – Monte Carlo para $\pi$.
+* **[VGC Records Webapp](https://lentejas1-vgc-records-main-x631ba.streamlit.app/)** – Streamlit app para torneos Pokémon.
 
 ---
 
@@ -50,10 +53,4 @@ $$\mathcal{X} \approx \sum_{r=1}^R a_r \circ b_r \circ c_r$$
 ---
 
 ### 🗣️ Languages
-* **Spanish & Catalan:** Native
-* **English:** Professional (B2)
-
----
-
-### 📫 Let's connect
-[LinkedIn](TU_URL) | [Twitter](TU_URL) | [Scholar](TU_URL)
+* **Spanish & Catalan:** Native | **English:** B2
