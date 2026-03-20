@@ -2,7 +2,6 @@
 layout: home
 title: Home
 ---
-
 # 🌌 Carlos Herrera Vázquez
 **PhD Researcher @ CITCEA-UPC** | Computational Mathematics & Power Electronics
 
